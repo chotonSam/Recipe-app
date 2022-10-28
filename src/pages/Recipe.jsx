@@ -94,9 +94,9 @@ const DetailWraper = styled(motion.div)`
     @media (max-width: 1555px) {
       width: 20rem;
     }
-    /* @media (max-width: 1200px) {
-    width: auto;
-} */
+    @media (max-width: 1200px) {
+      width: 100%;
+  }
   }
 `;
 
