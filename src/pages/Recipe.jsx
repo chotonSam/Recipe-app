@@ -65,7 +65,7 @@ const Recipe = () => {
 };
 
 const DetailWraper = styled(motion.div)`
-  margin: 5rem 0;
+  margin: 5rem 0 2rem 0;
   display: flex;
   @media (max-width: 1200px) {
     flex-wrap: wrap;
