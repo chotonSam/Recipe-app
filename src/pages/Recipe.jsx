@@ -108,6 +108,7 @@ const Button = styled.button`
   color: #313131;
   background: white;
   border: 2px solid black;
+  border-radius: 5px;
   margin-right: 2rem;
   @media (max-width: 576px) {
     margin-right: 1rem;
