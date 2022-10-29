@@ -81,10 +81,12 @@ const DetailWraper = styled(motion.div)`
   li {
     font-size: 1.2;
     line-height: 2.5;
+    list-style-position: inside
   }
   ul {
     margin-top: 2rem;
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
+    
   }
   img {
     width: 30rem;
